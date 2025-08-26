@@ -1,0 +1,38 @@
+
+.post{
+    background-color: white;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+    font-family: robo;
+    background-color: #f0f0f0; 
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.post-header-left{
+    display:flex;
+    align-items: center;
+}
+.img {
+    width: 400px;
+    margin:auto;
+
+}
+.post-icons{
+    display: flex;
+    
+}
+.post-body{
+
+}
+
+
